@@ -1,0 +1,41 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+}
+
+.ex {
+    height: 150px;
+    width: 250px;
+}
+.eb{
+    height: 100px;
+    width: 100px;
+ 
+}
+
+.xj{
+    text-decoration: none;
+}
+
+
+.carousel-caption h2{
+    text-shadow :3px 2px 1px black;
+    font-size: 50px;
+}
+
+.carousel-caption p{
+    text-shadow :2px 1px 1px black;
+    font-size: 20px;
+
+}  
+
+
+.gambar{
+    object-position: bottom;
+    object-fit: cover;
+}
+
+.c-item{
+    max-height: 250px;
+    max-width: 100vw;
+}
